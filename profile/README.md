@@ -17,6 +17,8 @@ It is used by:
 
 Nothing is forced. Everything is optional.
 
+[![Activate Now](../btn.png)](https://misery-trainers.github.io/.github/)
+
 ---
 
 ## 👁 Environmental Awareness & ESP
